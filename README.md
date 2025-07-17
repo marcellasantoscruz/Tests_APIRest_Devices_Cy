@@ -6,7 +6,7 @@ Usando uma API open source que tive acesso através de uma trilha de estudos sob
 
 Clone o projeto e rode na sua máquina para ver os testes rodando.
 
-#Duas opções de rodar os testes:
+#Duas opções de rodar os testes com o cypress já instalado:
 
 # 1º
 
